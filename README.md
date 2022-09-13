@@ -16,3 +16,4 @@ NOTE: the pictures on the frmFinances form may need to be manually added to the 
 when it is opened on a new machine. If this is the case they can be found in the folder
 named "images". Please add them to the ImageView component on the frmFinances page. 
 
+![Application in action](usage1.PNG)
