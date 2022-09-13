@@ -1,0 +1,56 @@
+C:\Users\samue\Desktop\College Stuff\Programming 2B\task_1_finances_manager\task_1_finances_manager\bin\Debug\task_1_finances_manager.exe.config
+C:\Users\samue\Desktop\College Stuff\Programming 2B\task_1_finances_manager\task_1_finances_manager\bin\Debug\task_1_finances_manager.exe
+C:\Users\samue\Desktop\College Stuff\Programming 2B\task_1_finances_manager\task_1_finances_manager\bin\Debug\task_1_finances_manager.pdb
+C:\Users\samue\Desktop\College Stuff\Programming 2B\task_1_finances_manager\task_1_finances_manager\bin\Debug\finance_manager_classes.dll
+C:\Users\samue\Desktop\College Stuff\Programming 2B\task_1_finances_manager\task_1_finances_manager\bin\Debug\finance_manager_classes.pdb
+C:\Users\samue\Desktop\College Stuff\Programming 2B\task_1_finances_manager\task_1_finances_manager\obj\Debug\task_1_finances_manager.csprojAssemblyReference.cache
+C:\Users\samue\Desktop\College Stuff\Programming 2B\task_1_finances_manager\task_1_finances_manager\obj\Debug\task_1_finances_manager.frmFinances.resources
+C:\Users\samue\Desktop\College Stuff\Programming 2B\task_1_finances_manager\task_1_finances_manager\obj\Debug\task_1_finances_manager.frmUser.resources
+C:\Users\samue\Desktop\College Stuff\Programming 2B\task_1_finances_manager\task_1_finances_manager\obj\Debug\task_1_finances_manager.Properties.Resources.resources
+C:\Users\samue\Desktop\College Stuff\Programming 2B\task_1_finances_manager\task_1_finances_manager\obj\Debug\task_1_finances_manager.csproj.GenerateResource.cache
+C:\Users\samue\Desktop\College Stuff\Programming 2B\task_1_finances_manager\task_1_finances_manager\obj\Debug\task_1_finances_manager.csproj.CoreCompileInputs.cache
+C:\Users\samue\Desktop\College Stuff\Programming 2B\task_1_finances_manager\task_1_finances_manager\obj\Debug\task_1_finances_manager.csproj.CopyComplete
+C:\Users\samue\Desktop\College Stuff\Programming 2B\task_1_finances_manager\task_1_finances_manager\obj\Debug\task_1_finances_manager.exe
+C:\Users\samue\Desktop\College Stuff\Programming 2B\task_1_finances_manager\task_1_finances_manager\obj\Debug\task_1_finances_manager.pdb
+C:\Users\MSI ZA\Desktop\College Stuff\Programming 2B\task_1_finances_manager\task_1_finances_manager\obj\Debug\task_1_finances_manager.csprojAssemblyReference.cache
+C:\Users\MSI ZA\Desktop\College Stuff\Programming 2B\task_1_finances_manager\task_1_finances_manager\obj\Debug\task_1_finances_manager.frmFinances.resources
+C:\Users\MSI ZA\Desktop\College Stuff\Programming 2B\task_1_finances_manager\task_1_finances_manager\obj\Debug\task_1_finances_manager.frmUser.resources
+C:\Users\MSI ZA\Desktop\College Stuff\Programming 2B\task_1_finances_manager\task_1_finances_manager\obj\Debug\task_1_finances_manager.Properties.Resources.resources
+C:\Users\MSI ZA\Desktop\College Stuff\Programming 2B\task_1_finances_manager\task_1_finances_manager\obj\Debug\task_1_finances_manager.csproj.GenerateResource.cache
+C:\Users\MSI ZA\Desktop\College Stuff\Programming 2B\task_1_finances_manager\task_1_finances_manager\obj\Debug\task_1_finances_manager.csproj.CoreCompileInputs.cache
+C:\Users\MSI ZA\Desktop\College Stuff\Programming 2B\task_1_finances_manager\task_1_finances_manager\obj\Debug\task_1_finances_manager.exe
+C:\Users\MSI ZA\Desktop\College Stuff\Programming 2B\task_1_finances_manager\task_1_finances_manager\obj\Debug\task_1_finances_manager.pdb
+C:\Users\MSI ZA\Desktop\College Stuff\Programming 2B\task_1_finances_manager\task_1_finances_manager\bin\Debug\task_1_finances_manager.exe.config
+C:\Users\MSI ZA\Desktop\College Stuff\Programming 2B\task_1_finances_manager\task_1_finances_manager\bin\Debug\task_1_finances_manager.exe
+C:\Users\MSI ZA\Desktop\College Stuff\Programming 2B\task_1_finances_manager\task_1_finances_manager\bin\Debug\task_1_finances_manager.pdb
+C:\Users\MSI ZA\Desktop\College Stuff\Programming 2B\task_1_finances_manager\task_1_finances_manager\bin\Debug\finance_manager_classes.dll
+C:\Users\MSI ZA\Desktop\College Stuff\Programming 2B\task_1_finances_manager\task_1_finances_manager\bin\Debug\finance_manager_classes.pdb
+C:\Users\MSI ZA\Desktop\College Stuff\Programming 2B\task_1_finances_manager\task_1_finances_manager\obj\Debug\task_1_finances_manager.csproj.CopyComplete
+C:\Users\MSI ZA\Desktop\College Stuff\Programming 2B\task_1_finances_manager - 15 September\task_1_finances_manager\bin\Debug\task_1_finances_manager.exe.config
+C:\Users\MSI ZA\Desktop\College Stuff\Programming 2B\task_1_finances_manager - 15 September\task_1_finances_manager\bin\Debug\task_1_finances_manager.exe
+C:\Users\MSI ZA\Desktop\College Stuff\Programming 2B\task_1_finances_manager - 15 September\task_1_finances_manager\bin\Debug\task_1_finances_manager.pdb
+C:\Users\MSI ZA\Desktop\College Stuff\Programming 2B\task_1_finances_manager - 15 September\task_1_finances_manager\bin\Debug\finance_manager_classes.dll
+C:\Users\MSI ZA\Desktop\College Stuff\Programming 2B\task_1_finances_manager - 15 September\task_1_finances_manager\bin\Debug\finance_manager_classes.pdb
+C:\Users\MSI ZA\Desktop\College Stuff\Programming 2B\task_1_finances_manager - 15 September\task_1_finances_manager\obj\Debug\task_1_finances_manager.csprojAssemblyReference.cache
+C:\Users\MSI ZA\Desktop\College Stuff\Programming 2B\task_1_finances_manager - 15 September\task_1_finances_manager\obj\Debug\task_1_finances_manager.frmFinances.resources
+C:\Users\MSI ZA\Desktop\College Stuff\Programming 2B\task_1_finances_manager - 15 September\task_1_finances_manager\obj\Debug\task_1_finances_manager.frmUser.resources
+C:\Users\MSI ZA\Desktop\College Stuff\Programming 2B\task_1_finances_manager - 15 September\task_1_finances_manager\obj\Debug\task_1_finances_manager.Properties.Resources.resources
+C:\Users\MSI ZA\Desktop\College Stuff\Programming 2B\task_1_finances_manager - 15 September\task_1_finances_manager\obj\Debug\task_1_finances_manager.csproj.GenerateResource.cache
+C:\Users\MSI ZA\Desktop\College Stuff\Programming 2B\task_1_finances_manager - 15 September\task_1_finances_manager\obj\Debug\task_1_finances_manager.csproj.CoreCompileInputs.cache
+C:\Users\MSI ZA\Desktop\College Stuff\Programming 2B\task_1_finances_manager - 15 September\task_1_finances_manager\obj\Debug\task_1_finances_manager.csproj.CopyComplete
+C:\Users\MSI ZA\Desktop\College Stuff\Programming 2B\task_1_finances_manager - 15 September\task_1_finances_manager\obj\Debug\task_1_finances_manager.exe
+C:\Users\MSI ZA\Desktop\College Stuff\Programming 2B\task_1_finances_manager - 15 September\task_1_finances_manager\obj\Debug\task_1_finances_manager.pdb
+C:\Users\user\Desktop\Old college work\Finance calculator - Prog\task_1_finances_manager\task_1_finances_manager\bin\Debug\task_1_finances_manager.exe.config
+C:\Users\user\Desktop\Old college work\Finance calculator - Prog\task_1_finances_manager\task_1_finances_manager\bin\Debug\task_1_finances_manager.exe
+C:\Users\user\Desktop\Old college work\Finance calculator - Prog\task_1_finances_manager\task_1_finances_manager\bin\Debug\task_1_finances_manager.pdb
+C:\Users\user\Desktop\Old college work\Finance calculator - Prog\task_1_finances_manager\task_1_finances_manager\bin\Debug\finance_manager_classes.dll
+C:\Users\user\Desktop\Old college work\Finance calculator - Prog\task_1_finances_manager\task_1_finances_manager\bin\Debug\finance_manager_classes.pdb
+C:\Users\user\Desktop\Old college work\Finance calculator - Prog\task_1_finances_manager\task_1_finances_manager\obj\Debug\task_1_finances_manager.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Old college work\Finance calculator - Prog\task_1_finances_manager\task_1_finances_manager\obj\Debug\task_1_finances_manager.frmFinances.resources
+C:\Users\user\Desktop\Old college work\Finance calculator - Prog\task_1_finances_manager\task_1_finances_manager\obj\Debug\task_1_finances_manager.frmUser.resources
+C:\Users\user\Desktop\Old college work\Finance calculator - Prog\task_1_finances_manager\task_1_finances_manager\obj\Debug\task_1_finances_manager.Properties.Resources.resources
+C:\Users\user\Desktop\Old college work\Finance calculator - Prog\task_1_finances_manager\task_1_finances_manager\obj\Debug\task_1_finances_manager.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Old college work\Finance calculator - Prog\task_1_finances_manager\task_1_finances_manager\obj\Debug\task_1_finances_manager.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Old college work\Finance calculator - Prog\task_1_finances_manager\task_1_finances_manager\obj\Debug\task_1_finances_manager.csproj.CopyComplete
+C:\Users\user\Desktop\Old college work\Finance calculator - Prog\task_1_finances_manager\task_1_finances_manager\obj\Debug\task_1_finances_manager.exe
+C:\Users\user\Desktop\Old college work\Finance calculator - Prog\task_1_finances_manager\task_1_finances_manager\obj\Debug\task_1_finances_manager.pdb
